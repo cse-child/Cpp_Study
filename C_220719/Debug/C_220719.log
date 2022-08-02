@@ -1,0 +1,11 @@
+﻿  AttackSkill.cpp
+  BuffSkill.cpp
+  C_220719.cpp
+  DataManager.cpp
+  Framework.cpp
+  Monster.cpp
+h:\users\visualstudio2017\project\sga_study\c_220719\monster.cpp(28): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+h:\users\visualstudio2017\project\sga_study\c_220719\monster.cpp(32): warning C4244: '*=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Skill.cpp
+  코드를 생성하고 있습니다...
+  C_220719.vcxproj -> H:\Users\VisualStudio2017\Project\SGA_Study\Debug\C_220719.exe

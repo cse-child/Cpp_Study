@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\220629">
+      <UniqueIdentifier>{80225fdd-e2ae-4398-97e6-79ff7e7fad3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\220630">
+      <UniqueIdentifier>{c1362b9e-040f-4301-9db0-e477b447c2e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\220701">
+      <UniqueIdentifier>{6559c6f7-ca24-4e52-8ca2-012c07375c27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\220704">
+      <UniqueIdentifier>{00d254f6-9bd2-4edc-8821-a4728a7dbd61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\220706">
+      <UniqueIdentifier>{17fa7661-30db-424f-a398-6ac947714039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\220707">
+      <UniqueIdentifier>{d14b09fd-fb4e-4a11-bd8e-c15e40cc3dae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\220708">
+      <UniqueIdentifier>{8a0199bf-e3ff-4a4f-a713-a4e0643b46dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\220711">
+      <UniqueIdentifier>{c73dce5b-10cb-4fbb-b302-c3edbd9f681e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\220712">
+      <UniqueIdentifier>{b2d5cc86-e1d2-40c2-8699-bec9f7b65cb5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="220707\빙고게임%28easy_ver%29.cpp">
+      <Filter>소스 파일\220707</Filter>
+    </ClCompile>
+    <ClCompile Include="220707\빙고게임%28hard_ver%29.cpp">
+      <Filter>소스 파일\220707</Filter>
+    </ClCompile>
+    <ClCompile Include="220708\슬라이드퍼즐게임.cpp">
+      <Filter>소스 파일\220708</Filter>
+    </ClCompile>
+    <ClCompile Include="220629\Variable.cpp">
+      <Filter>소스 파일\220629</Filter>
+    </ClCompile>
+    <ClCompile Include="220629\HelloWorld.cpp">
+      <Filter>소스 파일\220629</Filter>
+    </ClCompile>
+    <ClCompile Include="220630\Conditional.cpp">
+      <Filter>소스 파일\220630</Filter>
+    </ClCompile>
+    <ClCompile Include="220630\가위바위보.cpp">
+      <Filter>소스 파일\220630</Filter>
+    </ClCompile>
+    <ClCompile Include="220630\Operator.cpp">
+      <Filter>소스 파일\220630</Filter>
+    </ClCompile>
+    <ClCompile Include="220701\RockPaperScissors.cpp">
+      <Filter>소스 파일\220701</Filter>
+    </ClCompile>
+    <ClCompile Include="220701\랜덤숫자뽑기.cpp">
+      <Filter>소스 파일\220701</Filter>
+    </ClCompile>
+    <ClCompile Include="220701\While.cpp">
+      <Filter>소스 파일\220701</Filter>
+    </ClCompile>
+    <ClCompile Include="220704\랜덤숫자뽑기%28풀이%29.cpp">
+      <Filter>소스 파일\220704</Filter>
+    </ClCompile>
+    <ClCompile Include="220704\별찍기.cpp">
+      <Filter>소스 파일\220704</Filter>
+    </ClCompile>
+    <ClCompile Include="220704\For.cpp">
+      <Filter>소스 파일\220704</Filter>
+    </ClCompile>
+    <ClCompile Include="220706\DrawDiamond.cpp">
+      <Filter>소스 파일\220706</Filter>
+    </ClCompile>
+    <ClCompile Include="220706\Array.cpp">
+      <Filter>소스 파일\220706</Filter>
+    </ClCompile>
+    <ClCompile Include="220706\Pointer.cpp">
+      <Filter>소스 파일\220706</Filter>
+    </ClCompile>
+    <ClCompile Include="220707\숫자야구게임%28풀이%29.cpp">
+      <Filter>소스 파일\220707</Filter>
+    </ClCompile>
+    <ClCompile Include="220707\MultiArray.cpp">
+      <Filter>소스 파일\220707</Filter>
+    </ClCompile>
+    <ClCompile Include="220707\숫자야구게임%28수정%29.cpp">
+      <Filter>소스 파일\220707</Filter>
+    </ClCompile>
+    <ClCompile Include="220707\Homework.cpp">
+      <Filter>소스 파일\220707</Filter>
+    </ClCompile>
+    <ClCompile Include="220708\빙고게임%28풀이%29.cpp">
+      <Filter>소스 파일\220708</Filter>
+    </ClCompile>
+    <ClCompile Include="220708\빙고게임%28수정%29.cpp">
+      <Filter>소스 파일\220708</Filter>
+    </ClCompile>
+    <ClCompile Include="220711\슬라이드퍼즐게임%28풀이%29.cpp">
+      <Filter>소스 파일\220711</Filter>
+    </ClCompile>
+    <ClCompile Include="220711\Struct.cpp">
+      <Filter>소스 파일\220711</Filter>
+    </ClCompile>
+    <ClCompile Include="220712\CPlus.cpp">
+      <Filter>소스 파일\220712</Filter>
+    </ClCompile>
+    <ClCompile Include="220712\String.cpp">
+      <Filter>소스 파일\220712</Filter>
+    </ClCompile>
+    <ClCompile Include="220712\다마고치만들기.cpp">
+      <Filter>소스 파일\220712</Filter>
+    </ClCompile>
+    <ClCompile Include="220712\Class.cpp">
+      <Filter>소스 파일\220712</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

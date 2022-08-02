@@ -1,0 +1,33 @@
+﻿  Main.cpp
+c:\users\82108\source\repos\c_220722\c_220722\main.cpp(29): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82108\source\repos\c_220722\c_220722\main.cpp(56): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82108\source\repos\c_220722\c_220722\doublylinkedlist.h(138): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\82108\source\repos\c_220722\c_220722\doublylinkedlist.h(132): note: 클래스 템플릿 멤버 함수 'void DoublyLinkedList<int>::Insert(T,uint)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              T=int
+          ]
+  c:\users\82108\source\repos\c_220722\c_220722\main.cpp(51): note: 컴파일 중인 함수 템플릿 인스턴스화 'void DoublyLinkedList<int>::Insert(T,uint)'에 대한 참조를 확인하십시오.
+          with
+          [
+              T=int
+          ]
+  c:\users\82108\source\repos\c_220722\c_220722\main.cpp(39): note: 컴파일 중인 클래스 템플릿 인스턴스화 'DoublyLinkedList<int>'에 대한 참조를 확인하세요.
+c:\users\82108\source\repos\c_220722\c_220722\doublylinkedlist.h(166): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\82108\source\repos\c_220722\c_220722\doublylinkedlist.h(158): note: 클래스 템플릿 멤버 함수 'void DoublyLinkedList<int>::Erase(uint)'을(를) 컴파일하고 있습니다.
+  c:\users\82108\source\repos\c_220722\c_220722\main.cpp(54): note: 컴파일 중인 함수 템플릿 인스턴스화 'void DoublyLinkedList<int>::Erase(uint)'에 대한 참조를 확인하십시오.
+c:\users\82108\source\repos\c_220722\c_220722\doublylinkedlist.h(184): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+  c:\users\82108\source\repos\c_220722\c_220722\doublylinkedlist.h(183): note: 클래스 템플릿 멤버 함수 'Node<T> *DoublyLinkedList<T>::Find(uint)'을(를) 컴파일하고 있습니다.
+          with
+          [
+              T=int
+          ]
+  c:\users\82108\source\repos\c_220722\c_220722\main.cpp(58): note: 컴파일 중인 함수 템플릿 인스턴스화 'Node<T> *DoublyLinkedList<T>::Find(uint)'에 대한 참조를 확인하십시오.
+          with
+          [
+              T=int
+          ]
+c:\users\82108\source\repos\c_220722\c_220722\doublylinkedlist.h(189): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82108\source\repos\c_220722\c_220722\doublylinkedlist.h(193): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\82108\source\repos\c_220722\c_220722\doublylinkedlist.h(200): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  C_220722.vcxproj -> C:\Users\82108\source\repos\C_220722\Debug\C_220722.exe

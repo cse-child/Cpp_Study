@@ -1,0 +1,8 @@
+﻿  C_220725.cpp
+c:\users\82108\source\repos\c_220725\c_220725\c_220725.cpp(52): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  DataManager.cpp
+  Framework.cpp
+  Item.cpp
+  Player.cpp
+  코드를 생성하고 있습니다...
+  C_220725.vcxproj -> C:\Users\82108\source\repos\C_220725\Debug\C_220725.exe
